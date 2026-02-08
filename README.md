@@ -12,4 +12,4 @@
 
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Tejendra/Tejendra/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/TejendraDharikar/TejendraDharikar/blob/output/github-contribution-grid-snake.gif)
