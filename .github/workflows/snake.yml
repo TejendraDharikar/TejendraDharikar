@@ -21,3 +21,4 @@ jobs:
         with:
           message: "Generate contribution snake"
           add: "dist"
+          default_branch: output
